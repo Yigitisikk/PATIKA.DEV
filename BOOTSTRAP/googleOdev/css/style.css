@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+
+.logo{
+    text-align: center;
+}
+
+/* ------------- ARTICLE -------------- */
+
+.article-1{
+    width: 1650px;
+    height: 62px;
+    margin: 0 auto;
+    background-color: #EEEEEE;
+    text-align: center;
+}
+.article-1 p{
+    margin: 0;
+}
+.article-1 input{
+    width: 317px;
+    height: 21px;
+}
+
+/* ------------- ARTICLE -------------- */
+
+/* ------------ BOXES ------------------ */
+
+.boxes{
+    margin: 0 auto;
+    width: 1650px;
+    height: 76px;
+}
+
+/* ------------ BOX 1 ------------------ */
+
+.box-1{
+    background-color: #7EE5DA;
+    height: 76px;
+    width: 610px;
+    float: left;
+    text-align: center;
+}
+.box-1 div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box-1 p{
+    margin: 0;
+}
+
+/* ------------ BOX 1 ------------------ */
+
+/* ------------ BOX 2 ------------------ */
+
+.box-2{
+    background-color: #70CCC2;
+    height: 76px;
+    width: 319px;
+    float: left;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.box-2 div{
+    text-align: center;
+}
+.box-2 a{
+    font-size: 13px;
+}
+
+/* ------------ BOX 2 ------------------ */
+
+/* ------------ BOX 3 ------------------ */
+
+.box-3{
+    background: #62B3AA;
+    height: 76px;
+    width: 717px;
+    float: left;
+}
+.box-3 div{
+    text-align: center;
+}
+.box-3 p{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+}
+.box-3 a{
+    font-size: 13px;
+    margin-left: 7px;
+}
+
+/* ------------ BOX 3 ------------------ */
+
+/* ------------ BOXES ------------------ */
+
+footer{
+    text-align: center;
+    font-size: 13px;
+}
